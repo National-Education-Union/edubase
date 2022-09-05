@@ -12,7 +12,7 @@ to update school URNs to the latest value.',
     author_email='andrew.baisley@neu.org.uk',
 
     packages=find_packages,
-    install_requires=['pandas', 'os', 'datetime'],
+    install_requires=['pandas'],
     license='MIT',
 
     classifiers=[
