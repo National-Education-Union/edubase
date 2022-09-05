@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: edubase
+Version: 0.1
+Summary: A Python moule to import CSVs from https://www.get-information-schools.service.gov.uk/. There is also a function to update school URNs to the latest value.
+Home-page: https://github.com/National-Education-Union/edubase
+Author: Andrew Baisley
+Author-email: andrew.baisley@neu.org.uk
+License: UNKNOWN
+Platform: UNKNOWN
+
+UNKNOWN
+

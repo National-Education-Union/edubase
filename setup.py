@@ -11,13 +11,5 @@ to update school URNs to the latest value.',
     author='Andrew Baisley',
     author_email='andrew.baisley@neu.org.uk',
 
-    packages=find_packages,
     install_requires=['pandas'],
-    license='MIT',
-
-    classifiers=[
-        'Intended Audience :: Developers',
-        'Programming Language :: Python',
-        'Programming Language :: Python :: 3',
-    ],
-)
+    )
