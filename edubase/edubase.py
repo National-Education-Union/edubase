@@ -3,6 +3,7 @@ from pandas.api.types import is_numeric_dtype
 from datetime import date, datetime
 from os import listdir, remove, path, mkdir
 
+version = '0.1'
 csv_dir = "csv"
 output_dir = "csv/edubase"
 output_filenames = {
