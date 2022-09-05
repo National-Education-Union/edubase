@@ -1,10 +1,8 @@
 from setuptools import setup, find_packages
 
-from my_pip_package import __version__
-
 setup(
     name='edubase',
-    version=__version__,
+    version='0.1',
     description='A Python moule to import CSVs from \
 https://www.get-information-schools.service.gov.uk/. There is also a function \
 to update school URNs to the latest value.',
